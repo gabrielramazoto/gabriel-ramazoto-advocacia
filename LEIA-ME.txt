@@ -1,0 +1,29 @@
+# Site Gabriel Ramazoto Advocacia
+
+Site estático em HTML, CSS e JavaScript, preparado para publicação gratuita no GitHub Pages.
+
+## Conteúdo
+- Página inicial
+- Página institucional do advogado
+- Páginas de Direito Tributário, Previdenciário e do Consumidor
+- Página de contato
+- 6 páginas regionais iniciais: Jales, Estrela d’Oeste, Fernandópolis, Votuporanga, Santa Fé do Sul e São José do Rio Preto
+- Imagens convertidas para WebP e versões do logotipo
+- Dados estruturados JSON-LD, favicon e instruções básicas de SEO
+
+## Publicação
+1. Entre no repositório GitHub `gabriel-ramazoto-advocacia`.
+2. Na página principal do repositório, clique em **Add file** > **Upload files**.
+3. Abra esta pasta extraída e arraste TODOS os arquivos e pastas para a área de upload (incluindo `index.html`, `assets`, `cidades`, `sobre.html`, etc.).
+4. Clique em **Commit changes**.
+5. No repositório, abra **Settings** > **Pages**.
+6. Em **Build and deployment**, escolha **Deploy from a branch**.
+7. Em **Branch**, escolha `main` e a pasta `/ (root)`, depois clique em **Save**.
+8. O GitHub mostrará o endereço público do site. Pode levar alguns minutos para publicar.
+
+## Importante antes da publicação
+- Confirme se o nome exibido como marca e a forma de identificação profissional estão adequados às regras de publicidade da OAB.
+- Confirme endereço, telefone, e-mail e horário.
+- Revise as páginas regionais para garantir que a modalidade de atendimento descrita corresponde à prática real.
+- O endereço final do GitHub Pages depende do nome de usuário da conta GitHub. Depois de saber o endereço, atualize o sitemap e configure o Google Search Console.
+- As páginas regionais são informativas; não representam filiais ou unidades físicas em outras cidades.
